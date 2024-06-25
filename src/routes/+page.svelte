@@ -40,7 +40,8 @@
             "Already have an account? <a href=\"\">Login instead</a>"
         ]
     }
-
+    // https://drive.google.com/file/d/1O8f-bHOIdKoaQpsimfiZXS2MydJXYs8u/view?usp=drive_link
+    // https://drive.google.com/file/d/1zrz6a-4VKJfIXhuCbPUwA4X8-xpEHuPr/view?usp=drive_link
     const agentSignUpWizard: BaseWizardType = {
         title: "Register as an agent",
         windows: [
